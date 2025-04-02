@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Interface Registro Estudiante</string>
+    <string name="registro_de_estudiante">Registro de Estudiante</string>
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="dni">DNI</string>
+    <string name="c_digo_estudiante">Código Estudiante</string>
+    <string name="registrar">Registrar</string>
+</resources>
